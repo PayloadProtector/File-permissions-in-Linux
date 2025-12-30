@@ -83,7 +83,7 @@ I changed multiple permissions to match the level of authorization my organizati
 [image1]: images/01-ls-la.png
 [image2]: images/02-chmod.png
 [image3]: images/03-chmod.hidden.png
-[image4]: images/04chmod.draft.png
+[image4]: images/04-chmod.draft.png
 
 ## 📁 Project Structure
 File-Permission-in-Linux/
